@@ -1,0 +1,3 @@
+this is just a practice how to use git and github
+
+modifcations (changes) are made
